@@ -1,0 +1,4 @@
+train:
+  epochs: 10
+  n_estimators: 5
+  max_depth: 6
